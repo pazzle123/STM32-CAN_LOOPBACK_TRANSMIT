@@ -1,4 +1,0 @@
-../Core/Src/rtos.c:17:6:Serial_Transmit	1
-../Core/Src/rtos.c:21:6:Write_Mem	1
-../Core/Src/rtos.c:28:6:Read_Mem	1
-../Core/Src/rtos.c:32:6:Oled_on	1
